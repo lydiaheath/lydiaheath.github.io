@@ -12,7 +12,7 @@ angular.module('futures', [
 ]).
 config(['$routeProvider', function($routeProvider) {
   $routeProvider.when('/Home', {templateUrl: 'partials/home.html', controller: 'HomeCtrl'});
-  $routeProvider.when('/Project/:projectTitle', {templateUrl: 'partials/project.html', controller: 'ProjectCtrl'});
+  $routeProvider.when('/Project/:projectKey', {templateUrl: 'partials/project.html', controller: 'ProjectCtrl'});
   $routeProvider.when('/About', {templateUrl: 'partials/about.html', controller: 'AboutCtrl'});
   $routeProvider.otherwise({redirectTo: '/Home'});
 }]);
