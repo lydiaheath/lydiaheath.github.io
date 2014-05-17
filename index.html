@@ -38,17 +38,24 @@
 <body>
 
 <div ng-controller="HomeCtrl">
-    <div class="navbar navbar-inverse">
-        <div class="navbar-inner">
-            <div class="container">
-                <div class="nav-collapse">
-                    <ul class="nav">
-                        <li ng-repeat="(key, value) in projects"><a href="#/Project/{{key}}">{{value.ProjectTitle}}</a></li>
-                        <li ><a href="#/About/">About</a></li>
-                    </ul>
+    <div class="row">
+        <div class="col-md-2">
+            <div class="sidebar-nav">
+                <div class="navbar navbar">
+                    <div class="navbar-inner">
+                        <div class="container">
+                            <div class="nav-collapse">
+                                <ul class="nav">
+                                    <li ng-repeat="(key, value) in projects"><a href="#/Project/{{key}}">{{value.ProjectTitle}}</a></li>
+                                    <li ><a href="#/About/">About</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
+        <div class="col-md-10" ng-view></div>
     </div>
 </div>
 
@@ -56,7 +63,7 @@
       <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
   <![endif]-->
 
-  <div ng-view></div>
+
 
   <!-- In production use:
   <script src="//ajax.googleapis.com/ajax/libs/angularjs/x.x.x/angular.min.js"></script>
