@@ -9,6 +9,9 @@ angular.module('futures.controllers', [])
             $scope.projects = data;
         });
   }])
+  .controller('ProjectCtrl', ['$scope', '$routeParams', function($scope, $routeParams) {
+        $scope.projectTitle = $routeParams.projectTitle;
+  }])
   .controller('AboutCtrl', ['$scope', function($scope) {
 
   }]);

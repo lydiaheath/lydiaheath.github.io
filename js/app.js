@@ -11,7 +11,8 @@ angular.module('futures', [
   'ui.bootstrap'
 ]).
 config(['$routeProvider', function($routeProvider) {
-  $routeProvider.when('/Home', {templateUrl: 'partials/partial1.html', controller: 'HomeCtrl'});
-  $routeProvider.when('/About', {templateUrl: 'partials/partial2.html', controller: 'AboutCtrl'});
+  $routeProvider.when('/Home', {templateUrl: 'partials/home.html', controller: 'HomeCtrl'});
+  $routeProvider.when('/Project/:projectTitle', {templateUrl: 'partials/project.html', controller: 'ProjectCtrl'});
+  $routeProvider.when('/About', {templateUrl: 'partials/about.html', controller: 'AboutCtrl'});
   $routeProvider.otherwise({redirectTo: '/Home'});
 }]);
