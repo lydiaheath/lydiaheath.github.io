@@ -1,9 +1,8 @@
+<flex-slider slide="image in project.Images">
+    <li>
+        <img alt="{{image.Caption}}" ng-src="img/images/LQ/{{image.FileName}}">
+    </li>
+</flex-slider>
+
 <p>{{project.Description}}</p>
 
-<div class="flexslider">
-    <ul class="slides">
-        <li ng-repeat="image in project.Images">
-            <img alt="{{image.Caption}}" ng-src="img/images/LQ/{{image.FileName}}"/>
-        </li>
-    </ul>
-</div>

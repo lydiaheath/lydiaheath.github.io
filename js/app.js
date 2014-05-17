@@ -1,6 +1,5 @@
 'use strict';
 
-
 // Declare app level module which depends on filters, and services
 angular.module('futures', [
   'ngRoute',
@@ -8,7 +7,8 @@ angular.module('futures', [
   'futures.services',
   'futures.directives',
   'futures.controllers',
-  'ui.bootstrap'
+  'ui.bootstrap',
+  'angular-flexslider'
 ]).
 config(['$routeProvider', function($routeProvider) {
   $routeProvider.when('/Home', {templateUrl: 'partials/home.html', controller: 'HomeCtrl'});
