@@ -41,18 +41,18 @@
     <div class="row">
         <div class="col-md-2">
             <div class="sidebar-nav">
-                <div class="navbar navbar">
-                    <div class="navbar-inner">
-                        <div class="container">
-                            <div class="nav-collapse">
-                                <ul class="nav">
-                                    <li ng-repeat="(key, value) in projects"><a href="#/Project/{{key}}">{{value.ProjectTitle}}</a></li>
-                                    <li ><a href="#/About/">About</a></li>
-                                </ul>
-                            </div>
+                <nav class="navbar navbar">
+                    <div class="container-fluid">
+                        <div class="nav-collapse">
+                            <ul class="nav">
+                                <li><a class="navbar-brand" href="#/Home/">Lydia Heath</a></li>
+
+                                <li ng-repeat="(key, value) in projects"><a href="#/Project/{{key}}">{{value.ProjectTitle}}</a></li>
+                                <li ><a href="#/About/">About</a></li>
+                            </ul>
                         </div>
                     </div>
-                </div>
+                </nav>
             </div>
         </div>
         <div class="col-md-10" ng-view></div>
