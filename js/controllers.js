@@ -14,12 +14,17 @@ angular.module('futures.controllers', [])
             $scope.project = data;
         });
 
-        $scope.SampleImages = [];
+        $scope.Projects = [];
 
         $http.get('img/images/projects.json').success(function(data) {
             for(var key in data)
             {
-                $scope.SampleImages.push(data[key].SampleImage);
+                var flatProject = data[key].SampleImage;
+                flatProject.ProjectKey = key;
+                flatProject.ProjectTitle = data[key].ProjectTitle;
+                flatProject.Summary = data[key].Summary;
+                flatProject.SampleImage = data[key].SampleImage;
+                $scope.Projects.push(flatProject);
             }
         });
 
