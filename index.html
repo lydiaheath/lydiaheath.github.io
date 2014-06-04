@@ -18,7 +18,7 @@
     <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.css">
     <link rel="stylesheet" href="bower_components/html5-boilerplate/css/normalize.css">
     <link rel="stylesheet" href="bower_components/html5-boilerplate/css/main.css">
-    <link rel="stylesheet" href="bower_components/flexslider/flexslider.css">
+    <link rel="stylesheet" href="bower_components/flexslider-2.2.2/flexslider.css">
     <link rel="stylesheet" href="css/app.css"/>
     <script src="bower_components/html5-boilerplate/js/vendor/modernizr-2.6.2.min.js"></script>
     <script src="bower_components/angular/angular.js"></script>
@@ -27,11 +27,15 @@
 
     <script src="js/app.js"></script>
     <script src="js/controllers.js"></script>
-    <script type="text/javascript" src="bower_components/flexslider/jquery.flexslider-min.js"></script>
+    <script type="text/javascript" src="bower_components/flexslider-2.2.2/jquery.flexslider.js"></script>
     <script type="text/javascript" src="bower_components/angular-flexslider-1.2.8/angular-flexslider.js"></script>
     <script type="text/javascript" charset="utf-8">
-        jQuery(window).load(function () {
-            $('.flexslider').flexslider({smoothheight: true});
+
+
+        angular.element(document).ready(function() {
+            $('.flexslider').flexslider({
+                animation: "slide"
+            });
         });
     </script>
 </head>
@@ -57,7 +61,7 @@
                     </nav>
                 </div>
             </div>
-            <div class="col-md-10" style="width:auto" ng-view></div>
+            <div class="col-md-10" ng-view></div>
         </div>
     </div>
 </div>
