@@ -1,13 +1,12 @@
 <flex-slider slide="project in Projects track by project.FileName" style="max-width: 900px">
     <li>
-        <div class="container-fluid">
-            <div class="row">
+
+
                 <img class="img" alt="{{project.Caption}}" ng-src="img/images/LQ/{{project.FileName}}">
-            </div>
-            <div class="row">
+
                 <a href="#/Project/{{project.ProjectKey}}"><h3>{{project.ProjectTitle}}</h3></a>
                 <p>{{project.Summary}}</p>
-            </div>
-        </div>
+
+
     </li>
 </flex-slider>
