@@ -2,67 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b72ba46-303f-4401-a15d-fd4e9344a499" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\Users\Finneth\repos\lydiaheath.github.io.git\bower_components\angular-flexslider\.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Finneth\repos\lydiaheath.github.io.git\bower_components\angular-flexslider\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Finneth\repos\lydiaheath.github.io.git\bower_components\angular-flexslider\README.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Finneth\repos\lydiaheath.github.io.git\bower_components\angular-flexslider\angular-flexslider.coffee" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Finneth\repos\lydiaheath.github.io.git\bower_components\angular-flexslider\angular-flexslider.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Finneth\repos\lydiaheath.github.io.git\bower_components\angular-flexslider\bower.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Finneth\repos\lydiaheath.github.io.git\bower_components\angular-flexslider\examples\basic-carousel.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Finneth\repos\lydiaheath.github.io.git\bower_components\angular-flexslider\examples\basic-slider.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Finneth\repos\lydiaheath.github.io.git\bower_components\angular-flexslider\examples\callbacks.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Finneth\repos\lydiaheath.github.io.git\bower_components\angular-flexslider\examples\switch-content-type.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Finneth\repos\lydiaheath.github.io.git\bower_components\angular-flexslider\examples\thumbnail-controlnav.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Finneth\repos\lydiaheath.github.io.git\bower_components\flexslider\.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Finneth\repos\lydiaheath.github.io.git\bower_components\flexslider\README.mdown" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Finneth\repos\lydiaheath.github.io.git\bower_components\flexslider\demo\basic-carousel.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Finneth\repos\lydiaheath.github.io.git\bower_components\flexslider\demo\carousel-min-max.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Finneth\repos\lydiaheath.github.io.git\bower_components\flexslider\demo\css\demo.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Finneth\repos\lydiaheath.github.io.git\bower_components\flexslider\demo\css\shCore.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Finneth\repos\lydiaheath.github.io.git\bower_components\flexslider\demo\css\shThemeDefault.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Finneth\repos\lydiaheath.github.io.git\bower_components\flexslider\demo\fonts\webfonts\geo-medium\eot\1110FC_0.eot" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Finneth\repos\lydiaheath.github.io.git\bower_components\flexslider\demo\fonts\webfonts\geo-medium\svg\1110FC_0.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Finneth\repos\lydiaheath.github.io.git\bower_components\flexslider\demo\fonts\webfonts\geo-medium\svg\svg_test.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Finneth\repos\lydiaheath.github.io.git\bower_components\flexslider\demo\fonts\webfonts\geo-medium\ttf\1110FC_0.ttf" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Finneth\repos\lydiaheath.github.io.git\bower_components\flexslider\demo\fonts\webfonts\geo-medium\woff\1110FC_0.woff" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Finneth\repos\lydiaheath.github.io.git\bower_components\flexslider\demo\fonts\webfonts\geo-regular\eot\11014B_0.eot" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Finneth\repos\lydiaheath.github.io.git\bower_components\flexslider\demo\fonts\webfonts\geo-regular\svg\11014B_0.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Finneth\repos\lydiaheath.github.io.git\bower_components\flexslider\demo\fonts\webfonts\geo-regular\svg\svg_test.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Finneth\repos\lydiaheath.github.io.git\bower_components\flexslider\demo\fonts\webfonts\geo-regular\ttf\11014B_0.ttf" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Finneth\repos\lydiaheath.github.io.git\bower_components\flexslider\demo\fonts\webfonts\geo-regular\woff\11014B_0.woff" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Finneth\repos\lydiaheath.github.io.git\bower_components\flexslider\demo\fonts\webfonts\geo-semibold\eot\style_169898.eot" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Finneth\repos\lydiaheath.github.io.git\bower_components\flexslider\demo\fonts\webfonts\geo-semibold\svg\index.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Finneth\repos\lydiaheath.github.io.git\bower_components\flexslider\demo\fonts\webfonts\geo-semibold\svg\style_169898.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Finneth\repos\lydiaheath.github.io.git\bower_components\flexslider\demo\fonts\webfonts\geo-semibold\ttf\style_169898.ttf" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Finneth\repos\lydiaheath.github.io.git\bower_components\flexslider\demo\fonts\webfonts\geo-semibold\woff\style_169898.woff" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Finneth\repos\lydiaheath.github.io.git\bower_components\flexslider\demo\images\kitchen_adventurer_caramel.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Finneth\repos\lydiaheath.github.io.git\bower_components\flexslider\demo\images\kitchen_adventurer_cheesecake_brownie.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Finneth\repos\lydiaheath.github.io.git\bower_components\flexslider\demo\images\kitchen_adventurer_donut.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Finneth\repos\lydiaheath.github.io.git\bower_components\flexslider\demo\images\kitchen_adventurer_lemon.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Finneth\repos\lydiaheath.github.io.git\bower_components\flexslider\demo\images\logo.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Finneth\repos\lydiaheath.github.io.git\bower_components\flexslider\demo\index.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Finneth\repos\lydiaheath.github.io.git\bower_components\flexslider\demo\js\demo.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Finneth\repos\lydiaheath.github.io.git\bower_components\flexslider\demo\js\froogaloop.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Finneth\repos\lydiaheath.github.io.git\bower_components\flexslider\demo\js\jquery.easing.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Finneth\repos\lydiaheath.github.io.git\bower_components\flexslider\demo\js\jquery.fitvid.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Finneth\repos\lydiaheath.github.io.git\bower_components\flexslider\demo\js\jquery.mousewheel.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Finneth\repos\lydiaheath.github.io.git\bower_components\flexslider\demo\js\modernizr.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Finneth\repos\lydiaheath.github.io.git\bower_components\flexslider\demo\js\shBrushCss.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Finneth\repos\lydiaheath.github.io.git\bower_components\flexslider\demo\js\shBrushJScript.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Finneth\repos\lydiaheath.github.io.git\bower_components\flexslider\demo\js\shBrushXml.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Finneth\repos\lydiaheath.github.io.git\bower_components\flexslider\demo\js\shCore.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Finneth\repos\lydiaheath.github.io.git\bower_components\flexslider\demo\thumbnail-controlnav.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Finneth\repos\lydiaheath.github.io.git\bower_components\flexslider\demo\thumbnail-slider.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Finneth\repos\lydiaheath.github.io.git\bower_components\flexslider\demo\video.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Finneth\repos\lydiaheath.github.io.git\bower_components\flexslider\flexslider.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Finneth\repos\lydiaheath.github.io.git\bower_components\flexslider\images\bg_direction_nav.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Finneth\repos\lydiaheath.github.io.git\bower_components\flexslider\jquery.flexslider-min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Users\Finneth\repos\lydiaheath.github.io.git\bower_components\flexslider\jquery.flexslider.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/images/LQ/UnderConstruction.jpg" afterPath="$PROJECT_DIR$/img/images/LQ/UnderConstruction.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partials/home.html" afterPath="$PROJECT_DIR$/partials/home.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/flexslider-2.2.2/jquery.flexslider.js" afterPath="$PROJECT_DIR$/bower_components/flexslider-2.2.2/jquery.flexslider.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partials/project.html" afterPath="$PROJECT_DIR$/partials/project.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="lydiaheath.github.io.git.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -98,8 +39,8 @@
       <file leaf-file-name="home.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/partials/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="306">
-              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="221">
+              <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
               <folding>
                 <element signature="n#style#0;n#flex-slider#0;n#!!top" expanded="true" />
               </folding>
@@ -107,10 +48,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jquery.flexslider.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="jquery.flexslider.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bower_components/flexslider-2.2.2/jquery.flexslider.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.7106299" vertical-offset="19008" max-vertical-offset="19771">
+            <state vertical-scroll-proportion="31.035715" vertical-offset="19008" max-vertical-offset="19771">
               <caret line="1067" column="84" selection-start-line="1067" selection-start-column="84" selection-end-line="1067" selection-end-column="84" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
@@ -119,11 +60,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="project.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="project.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/partials/project.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="238">
-              <caret line="2" column="98" selection-start-line="2" selection-start-column="98" selection-end-line="2" selection-end-column="98" />
+            <state vertical-scroll-proportion="0.09751434" vertical-offset="0" max-vertical-offset="523">
+              <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
               <folding>
                 <element signature="n#style#0;n#flex-slider#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#li#0;n#flex-slider#0;n#!!top" expanded="true" />
@@ -169,8 +110,8 @@
         <option value="$PROJECT_DIR$/css/app.css" />
         <option value="$PROJECT_DIR$/bower_components/bootstrap/dist/css/bootstrap-simplex.css" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/partials/home.html" />
         <option value="$PROJECT_DIR$/bower_components/flexslider-2.2.2/jquery.flexslider.js" />
+        <option value="$PROJECT_DIR$/partials/home.html" />
         <option value="$PROJECT_DIR$/partials/project.html" />
       </list>
     </option>
@@ -377,14 +318,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1679225" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4159919" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1679225" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4159919" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -722,33 +663,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/partials/project.html">
+    <entry file="file://$PROJECT_DIR$/bower_components/flexslider-2.2.2/jquery.flexslider.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="238">
-          <caret line="2" column="98" selection-start-line="2" selection-start-column="98" selection-end-line="2" selection-end-column="98" />
+        <state vertical-scroll-proportion="31.035715" vertical-offset="19008" max-vertical-offset="19771">
+          <caret line="1067" column="84" selection-start-line="1067" selection-start-column="84" selection-end-line="1067" selection-end-column="84" />
           <folding>
-            <element signature="n#style#0;n#flex-slider#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#li#0;n#flex-slider#0;n#!!top" expanded="true" />
+            <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/partials/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="306">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="221">
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
           <folding>
             <element signature="n#style#0;n#flex-slider#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bower_components/flexslider-2.2.2/jquery.flexslider.js">
+    <entry file="file://$PROJECT_DIR$/partials/project.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.7106299" vertical-offset="19008" max-vertical-offset="19771">
-          <caret line="1067" column="84" selection-start-line="1067" selection-start-column="84" selection-end-line="1067" selection-end-column="84" />
+        <state vertical-scroll-proportion="0.09751434" vertical-offset="0" max-vertical-offset="523">
+          <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#style#0;n#flex-slider#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#li#0;n#flex-slider#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
