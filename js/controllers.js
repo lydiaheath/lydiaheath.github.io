@@ -9,11 +9,6 @@ angular.module('futures.controllers', [])
         });
     }])
     .controller('HomeCtrl', ['$scope', '$http', function($scope, $http) {
-
-        $http.get('img/images/projects/Barrier.json').success(function(data) {
-            $scope.project = data;
-        });
-
         $scope.Projects = [];
 
         $http.get('img/images/projects.json').success(function(data) {
